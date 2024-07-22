@@ -1,4 +1,4 @@
-module github.com/google-github-actions/send-google-chat-webhook
+module github.com/onix-net/send-google-chat-webhook
 
 go 1.20
 
